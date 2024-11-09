@@ -1,0 +1,7 @@
+# context API problem for later
+
+root 10-34
+
+productdetails 28-46
+
+navbar 11-41

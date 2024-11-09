@@ -1,0 +1,210 @@
+[
+    {
+        "product_id": "LAP001",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3520/inspiron-15-3520-02-228x228.webp",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "13-inch laptop with a stunning InfinityEdge display.",
+        "Specification": [
+            "13.3-inch display",
+            "8GB RAM",
+            "512GB SSD",
+            "Intel i7"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "LAP002",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-5440/latitude-5440-001-228x228.webp",
+        "category": "Laptops",
+        "price": 1500,
+        "description": "A sleek 2-in-1 laptop with touch support and convertible design.",
+        "Specification": [
+            "14-inch display",
+            "16GB RAM",
+            "1TB SSD",
+            "Intel i7"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "LAP003",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-3430/latitude-3430-01-228x228.webp",
+        "category": "Laptops",
+        "price": 1700,
+        "description": "A lightweight business laptop with long battery life and high durability.",
+        "Specification": [
+            "14-inch display",
+            "16GB RAM",
+            "1TB SSD",
+            "Intel i7"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": "LAP004",
+        "product_title": "Asus ZenBook 14",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-3440/latitude-3440-01-228x228.webp",
+        "category": "Laptops",
+        "price": 1100,
+        "description": "Ultra-thin, ultra-light laptop with powerful performance.",
+        "Specification": [
+            "14-inch display",
+            "8GB RAM",
+            "512GB SSD",
+            "AMD Ryzen 7"
+        ],
+        "availability": true,
+        "rating": 3.9
+    },
+    {
+        "product_id": "LAP005",
+        "product_title": "Apple MacBook Air M1",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/expertbook-br1100fka/expertbook-br1100fka-05-228x228.webp",
+        "category": "Laptops",
+        "price": 1300,
+        "description": "The thinnest and lightest MacBook with Apple's M1 chip.",
+        "Specification": [
+            "13-inch display",
+            "8GB RAM",
+            "256GB SSD",
+            "Apple M1 chip"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "LAP006",
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g8-black/250-g8-ash-black-01-228x228.webp",
+        "category": "Laptops",
+        "price": 1400,
+        "description": "A stylish laptop with great performance and touch support.",
+        "Specification": [
+            "13.5-inch display",
+            "16GB RAM",
+            "512GB SSD",
+            "Intel i5"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "PHN001",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s24-ultra/galaxy-s24-ultra-titanium-black-01-228x228.webp",
+        "category": "Phones",
+        "price": 999,
+        "description": "A flagship phone with a stunning display and powerful performance.",
+        "Specification": [
+            "6.2-inch display",
+            "8GB RAM",
+            "128GB storage",
+            "5G enabled"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "PHN002",
+        "product_title": "iPhone 13 Pro",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-16-pro-max/iphone-16-pro-max--228x228.webp",
+        "category": "Phones",
+        "price": 1099,
+        "description": "Apple's latest iPhone with improved cameras and performance.",
+        "Specification": [
+            "6.1-inch display",
+            "6GB RAM",
+            "256GB storage",
+            "A15 Bionic chip"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "ACC001",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h2218d/h2218d-228x228.jpg",
+        "category": "Accessories",
+        "price": 350,
+        "description": "Industry-leading noise-canceling wireless headphones.",
+        "Specification": [
+            "30-hour battery life",
+            "Bluetooth",
+            "Noise-canceling",
+            "Over-ear design"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "ACC002",
+        "product_title": "Logitech MX Master 3",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/accessories/headset/a4tech/hs-28-228x228.jpg",
+        "category": "Accessories",
+        "price": 100,
+        "description": "An ergonomic wireless mouse with advanced features.",
+        "Specification": [
+            "Precision scroll wheel",
+            "Bluetooth",
+            "Customizable buttons"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "SWT001",
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/apple-watch-ultra/watch-ultra-01-228x228.jpeg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "A premium smartwatch with fitness tracking and cellular support.",
+        "Specification": [
+            "41mm display",
+            "GPS + Cellular",
+            "Water-resistant",
+            "Heart-rate monitor"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "SWT002",
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/apple-watch-series-10/apple-watch-series-10-jet-black-01-228x228.webp",
+        "category": "Smart Watches",
+        "price": 279,
+        "description": "A versatile smartwatch with Wear OS and advanced fitness tracking.",
+        "Specification": [
+            "44mm display",
+            "GPS",
+            "Body composition analysis",
+            "Sleep tracking"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "SWT003",
+        "product_title": "Fitbit Sense",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/huawei/watch-buds/watch-buds-01-228x228.webp",
+        "category": "Smart Watches",
+        "price": 250,
+        "description": "A health-focused smartwatch with stress management and heart health monitoring.",
+        "Specification": [
+            "40mm display",
+            "GPS",
+            "ECG",
+            "SpO2 monitoring",
+            "Stress management"
+        ],
+        "availability": true,
+        "rating": 4.6
+    }
+]
